@@ -1,4 +1,4 @@
-# PyTorch_Reference
+# PyTorch References
 
 This a repo where I have accumulated & prepared some referance material for Pytorch. 
 
